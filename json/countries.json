@@ -1,0 +1,29 @@
+{
+    "countries": [
+        {
+            "value": "FR",
+            "name": "France",
+            "alpha2Code": "FR"
+        },
+        {
+            "value": "US",
+            "name": "USA",
+            "alpha2Code": "US"
+        },
+        {
+            "value": "AD",
+            "name": "Andorra",
+            "alpha2Code": "AD"
+        },
+        {
+            "value": "AR",
+            "name": "Argentina",
+            "alpha2Code": "AR"
+        },
+        {
+            "value": "AU",
+            "name": "Australia",
+            "alpha2Code": "AU"
+        }
+    ]
+}

@@ -1,0 +1,618 @@
+{
+    "countries": [
+        {
+            "value": "FR",
+            "name": "France",
+            "airports": [
+                {
+                    "value": "AJA",
+                    "codeIATA": "AJA",
+                    "name": "Campo dell'Oro Airport",
+                    "state": "2A",
+                    "location": "Ajaccio"
+                },
+                {
+                    "value": "BIA",
+                    "codeIATA": "BIA",
+                    "name": "Poretta Airport",
+                    "state": "2B",
+                    "location": "Bastia"
+                },
+                {
+                    "value": "BVA",
+                    "codeIATA": "BVA",
+                    "name": "Beauvais-Tillé Airport",
+                    "state": "60",
+                    "location": "Beauvais"
+                },
+                {
+                    "value": "BIQ",
+                    "codeIATA": "BIQ",
+                    "name": "Biarritz Airport",
+                    "state": "64",
+                    "location": "Biarritz"
+                },
+                {
+                    "value": "BOD",
+                    "codeIATA": "BOD",
+                    "name": "Mérignac Airport",
+                    "state": "33",
+                    "location": "Bordeaux"
+                },
+                {
+                    "value": "BES",
+                    "codeIATA": "BES",
+                    "name": "Brest Bretagne Airport",
+                    "state": "29",
+                    "location": "Brest"
+                },
+                {
+                    "value": "CCF",
+                    "codeIATA": "CCF",
+                    "name": "Salvaza Airport",
+                    "state": "11",
+                    "location": "Carcassonne"
+                },
+                {
+                    "value": "LIL",
+                    "codeIATA": "LIL",
+                    "name": "Lille Lesquin Airport",
+                    "state": "59",
+                    "location": "Lille"
+                },
+                {
+                    "value": "LYS",
+                    "codeIATA": "LYS",
+                    "name": "Saint-Exupéry Airport",
+                    "state": "69",
+                    "location": "Lyon"
+                },
+                {
+                    "value": "MRS",
+                    "codeIATA": "MRS",
+                    "name": "Provence Airport",
+                    "state": "13",
+                    "location": "Marseille"
+                },
+                {
+                    "value": "BSL",
+                    "codeIATA": "BSL",
+                    "name": "Basel-Mulhouse-Freiburg Airport",
+                    "state": "68",
+                    "location": "Mulhouse"
+                },
+                {
+                    "value": "NTE",
+                    "codeIATA": "NTE",
+                    "name": "Nantes Atlantique Airport",
+                    "state": "44",
+                    "location": "Nantes"
+                },
+                {
+                    "value": "NCE",
+                    "codeIATA": "NCE",
+                    "name": "Côte d'Azur Airport",
+                    "state": "06",
+                    "location": "Nice"
+                },
+                {
+                    "value": "CDG",
+                    "codeIATA": "CDG",
+                    "name": "Charles de Gaulle Airport",
+                    "state": "75",
+                    "location": "Paris"
+                },
+                {
+                    "value": "ORY",
+                    "codeIATA": "ORY",
+                    "name": "Orly Airport",
+                    "state": "75",
+                    "location": "Paris"
+                },
+                {
+                    "value": "PUF",
+                    "codeIATA": "PUF",
+                    "name": "Uzein Airport",
+                    "state": "64",
+                    "location": "Pau"
+                },
+                {
+                    "value": "PGF",
+                    "codeIATA": "PGF",
+                    "name": "Llabanère Airport",
+                    "state": "66",
+                    "location": "Perpignan"
+                },
+                {
+                    "value": "SXB",
+                    "codeIATA": "SXB",
+                    "name": "Strasbourg Airport",
+                    "state": "67",
+                    "location": "Strasbourg"
+                },
+                {
+                    "value": "TLN",
+                    "codeIATA": "TLN",
+                    "name": "Hyères Le Palyvestre Airport",
+                    "state": "83",
+                    "location": "Toulon"
+                },
+                {
+                    "value": "TLS",
+                    "codeIATA": "TLS",
+                    "name": "Blagnac Airport",
+                    "state": "31",
+                    "location": "Toulouse"
+                }
+            ]
+        },
+        {
+            "value": "US",
+            "name": "USA",
+            "airports": [
+                {
+                    "value": "ABQ",
+                    "codeIATA": "ABQ",
+                    "name": "Albuquerque International Sunport",
+                    "state": "NM",
+                    "location": "Albuquerque"
+                },
+                {
+                    "value": "ANC",
+                    "codeIATA": "ANC",
+                    "name": "Ted Stevens Anchorage International Airport",
+                    "state": "AK",
+                    "location": "Anchorage"
+                },
+                {
+                    "value": "ATL",
+                    "codeIATA": "ATL",
+                    "name": "Hartsfield-Jackson Atlanta International Airport",
+                    "state": "GA",
+                    "location": "Atlanta"
+                },
+                {
+                    "value": "AUS",
+                    "codeIATA": "AUS",
+                    "name": "Austin-Bergstrom International Airport",
+                    "state": "TX",
+                    "location": "Austin"
+                },
+                {
+                    "value": "BWI",
+                    "codeIATA": "BWI",
+                    "name": "Baltimore-Washington International Thurgood Marshall Airport",
+                    "state": "MD",
+                    "location": "Baltimore"
+                },
+                {
+                    "value": "BOI",
+                    "codeIATA": "BOI",
+                    "name": "Boise Airport",
+                    "state": "ID",
+                    "location": "Boise"
+                },
+                {
+                    "value": "BOS",
+                    "codeIATA": "BOS",
+                    "name": "Logan International Airport",
+                    "state": "MA",
+                    "location": "Boston"
+                },
+                {
+                    "value": "BUF",
+                    "codeIATA": "BUF",
+                    "name": "Buffalo Niagara International Airport",
+                    "state": "NY",
+                    "location": "Buffalo"
+                },
+                {
+                    "value": "CLT",
+                    "codeIATA": "CLT",
+                    "name": "Charlotte/Douglas International Airport",
+                    "state": "NC",
+                    "location": "Charlotte"
+                },
+                {
+                    "value": "CHS",
+                    "codeIATA": "CHS",
+                    "name": "Charleston International Airport",
+                    "state": "SC",
+                    "location": "Charleston"
+                },
+                {
+                    "value": "MDW",
+                    "codeIATA": "MDW",
+                    "name": "Chicago Midway International Airport",
+                    "state": "IL",
+                    "location": "Chicago"
+                },
+                {
+                    "value": "ORD",
+                    "codeIATA": "ORD",
+                    "name": "O'Hare International Airport",
+                    "state": "IL",
+                    "location": "Chicago"
+                },
+                {
+                    "value": "CVG",
+                    "codeIATA": "CVG",
+                    "name": "Cincinnati/Northern Kentucky International Airport",
+                    "state": "OH",
+                    "location": "Cincinnati"
+                },
+                {
+                    "value": "CLE",
+                    "codeIATA": "CLE",
+                    "name": "Cleveland Hopkins International Airport",
+                    "state": "OH",
+                    "location": "Cleveland"
+                },
+                {
+                    "value": "CMH",
+                    "codeIATA": "CMH",
+                    "name": "John Glenn Columbus International Airport",
+                    "state": "OH",
+                    "location": "Columbus"
+                },
+                {
+                    "value": "DFW",
+                    "codeIATA": "DFW",
+                    "name": "Dallas/Fort Worth International Airport",
+                    "state": "TX",
+                    "location": "Dallas"
+                },
+                {
+                    "value": "DEN",
+                    "codeIATA": "DEN",
+                    "name": "Denver International Airport",
+                    "state": "CO",
+                    "location": "Denver"
+                },
+                {
+                    "value": "DTW",
+                    "codeIATA": "DTW",
+                    "name": "Detroit Metropolitan Wayne County Airport",
+                    "state": "MI",
+                    "location": "Detroit"
+                },
+                {
+                    "value": "FLL",
+                    "codeIATA": "FLL",
+                    "name": "Fort Lauderdale-Hollywood International Airport",
+                    "state": "FL",
+                    "location": "Fort Lauderdale"
+                },
+                {
+                    "value": "RSW",
+                    "codeIATA": "RSW",
+                    "name": "Southwest Florida International Airport",
+                    "state": "FL",
+                    "location": "Fort Myers"
+                },
+                {
+                    "value": "BDL",
+                    "codeIATA": "BDL",
+                    "name": "Bradley International Airport",
+                    "state": "CT",
+                    "location": "Hartford"
+                },
+                {
+                    "value": "HNL",
+                    "codeIATA": "HNL",
+                    "name": "Daniel K. Inouye International Airport",
+                    "state": "HI",
+                    "location": "Honolulu"
+                },
+                {
+                    "value": "IAH",
+                    "codeIATA": "IAH",
+                    "name": "George Bush Intercontinental Airport",
+                    "state": "TX",
+                    "location": "Houston"
+                },
+                {
+                    "value": "HOU",
+                    "codeIATA": "HOU",
+                    "name": "William P. Hobby Airport",
+                    "state": "TX",
+                    "location": "Houston"
+                },
+                {
+                    "value": "IND",
+                    "codeIATA": "IND",
+                    "name": "Indianapolis International Airport",
+                    "state": "IN",
+                    "location": "Indianapolis"
+                },
+                {
+                    "value": "JAX",
+                    "codeIATA": "JAX",
+                    "name": "Jacksonville International Airport",
+                    "state": "FL",
+                    "location": "Jacksonville"
+                },
+                {
+                    "value": "MCI",
+                    "codeIATA": "MCI",
+                    "name": "Kansas City International Airport",
+                    "state": "MO",
+                    "location": "Kansas City"
+                },
+                {
+                    "value": "LAS",
+                    "codeIATA": "LAS",
+                    "name": "McCarran International Airport",
+                    "state": "NV",
+                    "location": "Las Vegas"
+                },
+                {
+                    "value": "LAX",
+                    "codeIATA": "LAX",
+                    "name": "Los Angeles International Airport",
+                    "state": "CA",
+                    "location": "Los Angeles"
+                },
+                {
+                    "value": "SDF",
+                    "codeIATA": "SDF",
+                    "name": "Louisville International Airport",
+                    "state": "KY",
+                    "location": "Louisville"
+                },
+                {
+                    "value": "MEM",
+                    "codeIATA": "MEM",
+                    "name": "Memphis International Airport",
+                    "state": "TN",
+                    "location": "Memphis"
+                },
+                {
+                    "value": "MIA",
+                    "codeIATA": "MIA",
+                    "name": "Miami International Airport",
+                    "state": "FL",
+                    "location": "Miami"
+                },
+                {
+                    "value": "MKE",
+                    "codeIATA": "MKE",
+                    "name": "General Mitchell International Airport",
+                    "state": "WI",
+                    "location": "Milwaukee"
+                },
+                {
+                    "value": "MSP",
+                    "codeIATA": "MSP",
+                    "name": "Minneapolis-Saint Paul International Airport",
+                    "state": "MN",
+                    "location": "Minneapolis"
+                },
+                {
+                    "value": "BNA",
+                    "codeIATA": "BNA",
+                    "name": "Nashville International Airport",
+                    "state": "TN",
+                    "location": "Nashville"
+                },
+                {
+                    "value": "MSY",
+                    "codeIATA": "MSY",
+                    "name": "Louis Armstrong New Orleans International Airport",
+                    "state": "LA",
+                    "location": "New Orleans"
+                },
+                {
+                    "value": "JFK",
+                    "codeIATA": "JFK",
+                    "name": "John F. Kennedy International Airport",
+                    "state": "NY",
+                    "location": "New York City"
+                },
+                {
+                    "value": "LGA",
+                    "codeIATA": "LGA",
+                    "name": "LaGuardia Airport",
+                    "state": "NY",
+                    "location": "New York City"
+                },
+                {
+                    "value": "EWR",
+                    "codeIATA": "EWR",
+                    "name": "Newark Liberty International Airport",
+                    "state": "NJ",
+                    "location": "Newark"
+                },
+                {
+                    "value": "ORF",
+                    "codeIATA": "ORF",
+                    "name": "Norfolk International Airport",
+                    "state": "VA",
+                    "location": "Norfolk"
+                },
+                {
+                    "value": "OAK",
+                    "codeIATA": "OAK",
+                    "name": "Metropolitan Oakland International Airport",
+                    "state": "CA",
+                    "location": "Oakland"
+                },
+                {
+                    "value": "OKC",
+                    "codeIATA": "OKC",
+                    "name": "Will Rogers World Airport",
+                    "state": "OK",
+                    "location": "Oklahoma City"
+                },
+                {
+                    "value": "OMA",
+                    "codeIATA": "OMA",
+                    "name": "Eppley Airfield",
+                    "state": "NE",
+                    "location": "Omaha"
+                },
+                {
+                    "value": "ONT",
+                    "codeIATA": "ONT",
+                    "name": "Ontario International Airport",
+                    "state": "CA",
+                    "location": "Ontario"
+                },
+                {
+                    "value": "SNA",
+                    "codeIATA": "SNA",
+                    "name": "John Wayne Airport",
+                    "state": "CA",
+                    "location": "Orange County"
+                },
+                {
+                    "value": "MCO",
+                    "codeIATA": "MCO",
+                    "name": "Orlando International Airport",
+                    "state": "FL",
+                    "location": "Orlando"
+                },
+                {
+                    "value": "PHL",
+                    "codeIATA": "PHL",
+                    "name": "Philadelphia International Airport",
+                    "state": "PA",
+                    "location": "Philadelphia"
+                },
+                {
+                    "value": "PHX",
+                    "codeIATA": "PHX",
+                    "name": "Phoenix Sky Harbor International Airport",
+                    "state": "AZ",
+                    "location": "Phoenix"
+                },
+                {
+                    "value": "PIT",
+                    "codeIATA": "PIT",
+                    "name": "Pittsburgh International Airport",
+                    "state": "PA",
+                    "location": "Pittsburgh"
+                },
+                {
+                    "value": "PDX",
+                    "codeIATA": "PDX",
+                    "name": "Portland International Airport",
+                    "state": "OR",
+                    "location": "Portland"
+                },
+                {
+                    "value": "PVD",
+                    "codeIATA": "PVD",
+                    "name": "T.F. Green Airport",
+                    "state": "RI",
+                    "location": "Providence"
+                },
+                {
+                    "value": "RDU",
+                    "codeIATA": "RDU",
+                    "name": "Raleigh-Durham International Airport",
+                    "state": "NC",
+                    "location": "Raleigh"
+                },
+                {
+                    "value": "RNO",
+                    "codeIATA": "RNO",
+                    "name": "Reno-Tahoe International Airport",
+                    "state": "NV",
+                    "location": "Reno"
+                },
+                {
+                    "value": "RIC",
+                    "codeIATA": "RIC",
+                    "name": "Richmond International Airport",
+                    "state": "VA",
+                    "location": "Richmond"
+                },
+                {
+                    "value": "SMF",
+                    "codeIATA": "SMF",
+                    "name": "Sacramento International Airport",
+                    "state": "CA",
+                    "location": "Sacramento"
+                },
+                {
+                    "value": "SLC",
+                    "codeIATA": "SLC",
+                    "name": "Salt Lake City International Airport",
+                    "state": "UT",
+                    "location": "Salt Lake City"
+                },
+                {
+                    "value": "SAT",
+                    "codeIATA": "SAT",
+                    "name": "San Antonio International Airport",
+                    "state": "TX",
+                    "location": "San Antonio"
+                },
+                {
+                    "value": "SAN",
+                    "codeIATA": "SAN",
+                    "name": "San Diego International Airport",
+                    "state": "CA",
+                    "location": "San Diego"
+                },
+                {
+                    "value": "SFO",
+                    "codeIATA": "SFO",
+                    "name": "San Francisco International Airport",
+                    "state": "CA",
+                    "location": "San Francisco"
+                },
+                {
+                    "value": "SJC",
+                    "codeIATA": "SJC",
+                    "name": "San Jose International Airport",
+                    "state": "CA",
+                    "location": "San Jose"
+                },
+                {
+                    "value": "SEA",
+                    "codeIATA": "SEA",
+                    "name": "Seattle-Tacoma International Airport",
+                    "state": "WA",
+                    "location": "Seattle"
+                },
+                {
+                    "value": "GEG",
+                    "codeIATA": "GEG",
+                    "name": "Spokane International Airport",
+                    "state": "WA",
+                    "location": "Spokane"
+                },
+                {
+                    "value": "STL",
+                    "codeIATA": "STL",
+                    "name": "Lambert-Saint Louis International Airport",
+                    "state": "MO",
+                    "location": "St. Louis"
+                },
+                {
+                    "value": "TPA",
+                    "codeIATA": "TPA",
+                    "name": "Tampa International Airport",
+                    "state": "FL",
+                    "location": "Tampa"
+                },
+                {
+                    "value": "IAD",
+                    "codeIATA": "IAD",
+                    "name": "Washington Dulles International Airport",
+                    "state": "DC",
+                    "location": "Washington"
+                },
+                {
+                    "value": "PBI",
+                    "codeIATA": "PBI",
+                    "name": "Palm Beach International Airport",
+                    "state": "FL",
+                    "location": "West Palm Beach"
+                }
+            ]
+        }
+    ]
+}

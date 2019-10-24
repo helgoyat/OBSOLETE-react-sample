@@ -1,0 +1,1548 @@
+{
+    "countries": [
+        {
+            "value": "FR",
+            "name": "France",
+            "cities": [
+                {
+                    "value": "Bourg-en-Bresse",
+                    "state": "01"
+                },
+                {
+                    "value": "Saint-Quentin",
+                    "state": "02"
+                },
+                {
+                    "value": "Gap",
+                    "state": "05"
+                },
+                {
+                    "value": "Antibes",
+                    "state": "06"
+                },
+                {
+                    "value": "Cagnes-sur-Mer",
+                    "state": "06"
+                },
+                {
+                    "value": "Cannes",
+                    "state": "06"
+                },
+                {
+                    "value": "Grasse",
+                    "state": "06"
+                },
+                {
+                    "value": "Le Cannet",
+                    "state": "06"
+                },
+                {
+                    "value": "Nice",
+                    "state": "06"
+                },
+                {
+                    "value": "Charleville-Mézières",
+                    "state": "08"
+                },
+                {
+                    "value": "Troyes",
+                    "state": "10"
+                },
+                {
+                    "value": "Carcassonne",
+                    "state": "11"
+                },
+                {
+                    "value": "Narbonne",
+                    "state": "11"
+                },
+                {
+                    "value": "Aix-en-Provence",
+                    "state": "13"
+                },
+                {
+                    "value": "Arles",
+                    "state": "13"
+                },
+                {
+                    "value": "Aubagne",
+                    "state": "13"
+                },
+                {
+                    "value": "Istres",
+                    "state": "13"
+                },
+                {
+                    "value": "Marseille",
+                    "state": "13"
+                },
+                {
+                    "value": "Martigues",
+                    "state": "13"
+                },
+                {
+                    "value": "Salon-de-Provence",
+                    "state": "13"
+                },
+                {
+                    "value": "Caen",
+                    "state": "14"
+                },
+                {
+                    "value": "Angoulême",
+                    "state": "16"
+                },
+                {
+                    "value": "La Rochelle",
+                    "state": "17"
+                },
+                {
+                    "value": "Bourges",
+                    "state": "18"
+                },
+                {
+                    "value": "Brive-la-Gaillarde",
+                    "state": "19"
+                },
+                {
+                    "value": "Dijon",
+                    "state": "21"
+                },
+                {
+                    "value": "Saint-Brieuc",
+                    "state": "22"
+                },
+                {
+                    "value": "Besançon",
+                    "state": "25"
+                },
+                {
+                    "value": "Valence",
+                    "state": "26"
+                },
+                {
+                    "value": "Évreux",
+                    "state": "27"
+                },
+                {
+                    "value": "Brest",
+                    "state": "29"
+                },
+                {
+                    "value": "Quimper",
+                    "state": "29"
+                },
+                {
+                    "value": "Ajaccio",
+                    "state": "2A"
+                },
+                {
+                    "value": "Bastia",
+                    "state": "2B"
+                },
+                {
+                    "value": "Nîmes",
+                    "state": "30"
+                },
+                {
+                    "value": "Toulouse",
+                    "state": "31"
+                },
+                {
+                    "value": "Bordeaux",
+                    "state": "33"
+                },
+                {
+                    "value": "Mérignac",
+                    "state": "33"
+                },
+                {
+                    "value": "Pessac",
+                    "state": "33"
+                },
+                {
+                    "value": "Talence",
+                    "state": "33"
+                },
+                {
+                    "value": "Béziers",
+                    "state": "34"
+                },
+                {
+                    "value": "Montpellier",
+                    "state": "34"
+                },
+                {
+                    "value": "Sète",
+                    "state": "34"
+                },
+                {
+                    "value": "Rennes",
+                    "state": "35"
+                },
+                {
+                    "value": "Saint-Malo",
+                    "state": "35"
+                },
+                {
+                    "value": "Châteauroux",
+                    "state": "36"
+                },
+                {
+                    "value": "Tours",
+                    "state": "37"
+                },
+                {
+                    "value": "Blois",
+                    "state": "41"
+                },
+                {
+                    "value": "Saint-Étienne",
+                    "state": "42"
+                },
+                {
+                    "value": "Nantes",
+                    "state": "44"
+                },
+                {
+                    "value": "Rezé",
+                    "state": "44"
+                },
+                {
+                    "value": "Saint-Herblain",
+                    "state": "44"
+                },
+                {
+                    "value": "Saint-Nazaire",
+                    "state": "44"
+                },
+                {
+                    "value": "Orléans",
+                    "state": "45"
+                },
+                {
+                    "value": "Angers",
+                    "state": "49"
+                },
+                {
+                    "value": "Cholet",
+                    "state": "49"
+                },
+                {
+                    "value": "Saumur",
+                    "state": "49"
+                },
+                {
+                    "value": "Cherbourg-en-Cotentin",
+                    "state": "50"
+                },
+                {
+                    "value": "Châlons-en-Champagne",
+                    "state": "51"
+                },
+                {
+                    "value": "Reims",
+                    "state": "51"
+                },
+                {
+                    "value": "Laval",
+                    "state": "53"
+                },
+                {
+                    "value": "Nancy",
+                    "state": "54"
+                },
+                {
+                    "value": "Lorient",
+                    "state": "56"
+                },
+                {
+                    "value": "Vannes",
+                    "state": "56"
+                },
+                {
+                    "value": "Metz",
+                    "state": "57"
+                },
+                {
+                    "value": "Thionville",
+                    "state": "57"
+                },
+                {
+                    "value": "Dunkerque",
+                    "state": "59"
+                },
+                {
+                    "value": "Lille",
+                    "state": "59"
+                },
+                {
+                    "value": "Roubaix",
+                    "state": "59"
+                },
+                {
+                    "value": "Tourcoing",
+                    "state": "59"
+                },
+                {
+                    "value": "Valenciennes",
+                    "state": "59"
+                },
+                {
+                    "value": "Villeneuve-d'Ascq",
+                    "state": "59"
+                },
+                {
+                    "value": "Wattrelos",
+                    "state": "59"
+                },
+                {
+                    "value": "Beauvais",
+                    "state": "60"
+                },
+                {
+                    "value": "Compiègne",
+                    "state": "60"
+                },
+                {
+                    "value": "Arras",
+                    "state": "62"
+                },
+                {
+                    "value": "Boulogne-sur-Mer",
+                    "state": "62"
+                },
+                {
+                    "value": "Calais",
+                    "state": "62"
+                },
+                {
+                    "value": "Montreuil",
+                    "state": "62"
+                },
+                {
+                    "value": "Clermont-Ferrand",
+                    "state": "63"
+                },
+                {
+                    "value": "Biarritz",
+                    "state": "64"
+                },
+                {
+                    "value": "Bayonne",
+                    "state": "64"
+                },
+                {
+                    "value": "Pau",
+                    "state": "64"
+                },
+                {
+                    "value": "Tarbes",
+                    "state": "65"
+                },
+                {
+                    "value": "Perpignan",
+                    "state": "66"
+                },
+                {
+                    "value": "Strasbourg",
+                    "state": "67"
+                },
+                {
+                    "value": "Colmar",
+                    "state": "68"
+                },
+                {
+                    "value": "Mulhouse",
+                    "state": "68"
+                },
+                {
+                    "value": "Bron",
+                    "state": "69"
+                },
+                {
+                    "value": "Caluire-et-Cuire",
+                    "state": "69"
+                },
+                {
+                    "value": "Lyon",
+                    "state": "69"
+                },
+                {
+                    "value": "Saint-Priest",
+                    "state": "69"
+                },
+                {
+                    "value": "Vaulx-en-Velin",
+                    "state": "69"
+                },
+                {
+                    "value": "Vénissieux",
+                    "state": "69"
+                },
+                {
+                    "value": "Villeurbanne",
+                    "state": "69"
+                },
+                {
+                    "value": "Chalon-sur-Saône",
+                    "state": "71"
+                },
+                {
+                    "value": "Le Mans",
+                    "state": "72"
+                },
+                {
+                    "value": "Chambéry",
+                    "state": "73"
+                },
+                {
+                    "value": "Annecy",
+                    "state": "74"
+                },
+                {
+                    "value": "Paris",
+                    "state": "75"
+                },
+                {
+                    "value": "Le Havre",
+                    "state": "76"
+                },
+                {
+                    "value": "Rouen",
+                    "state": "76"
+                },
+                {
+                    "value": "Chelles",
+                    "state": "77"
+                },
+                {
+                    "value": "Meaux",
+                    "state": "77"
+                },
+                {
+                    "value": "Melun",
+                    "state": "77"
+                },
+                {
+                    "value": "Mantes-la-Jolie",
+                    "state": "78"
+                },
+                {
+                    "value": "Saint-Germain-en-Laye",
+                    "state": "78"
+                },
+                {
+                    "value": "Sartrouville",
+                    "state": "78"
+                },
+                {
+                    "value": "Versailles",
+                    "state": "78"
+                },
+                {
+                    "value": "Niort",
+                    "state": "79"
+                },
+                {
+                    "value": "Amiens",
+                    "state": "80"
+                },
+                {
+                    "value": "Albi",
+                    "state": "81"
+                },
+                {
+                    "value": "Castres",
+                    "state": "81"
+                },
+                {
+                    "value": "Montauban",
+                    "state": "82"
+                },
+                {
+                    "value": "Draguignan",
+                    "state": "83"
+                },
+                {
+                    "value": "Fréjus",
+                    "state": "83"
+                },
+                {
+                    "value": "Hyères",
+                    "state": "83"
+                },
+                {
+                    "value": "La Seyne-sur-Mer",
+                    "state": "83"
+                },
+                {
+                    "value": "Toulon",
+                    "state": "83"
+                },
+                {
+                    "value": "Avignon",
+                    "state": "84"
+                },
+                {
+                    "value": "Grenoble",
+                    "state": "84"
+                },
+                {
+                    "value": "La Roche-sur-Yon",
+                    "state": "85"
+                },
+                {
+                    "value": "Les Sables-d'Olonne",
+                    "state": "85"
+                },
+                {
+                    "value": "Poitiers",
+                    "state": "86"
+                },
+                {
+                    "value": "Limoges",
+                    "state": "87"
+                },
+                {
+                    "value": "Belfort",
+                    "state": "90"
+                },
+                {
+                    "value": "Corbeil-Essonnes",
+                    "state": "91"
+                },
+                {
+                    "value": "Évry-Courcouronnes",
+                    "state": "91"
+                },
+                {
+                    "value": "Massy",
+                    "state": "91"
+                },
+                {
+                    "value": "Antony",
+                    "state": "92"
+                },
+                {
+                    "value": "Asnières-sur-Seine",
+                    "state": "92"
+                },
+                {
+                    "value": "Boulogne-Billancourt",
+                    "state": "92"
+                },
+                {
+                    "value": "Clamart",
+                    "state": "92"
+                },
+                {
+                    "value": "Clichy",
+                    "state": "92"
+                },
+                {
+                    "value": "Colombes",
+                    "state": "92"
+                },
+                {
+                    "value": "Courbevoie",
+                    "state": "92"
+                },
+                {
+                    "value": "Gennevilliers",
+                    "state": "92"
+                },
+                {
+                    "value": "Issy-les-Moulineaux",
+                    "state": "92"
+                },
+                {
+                    "value": "Levallois-Perret",
+                    "state": "92"
+                },
+                {
+                    "value": "Meudon",
+                    "state": "92"
+                },
+                {
+                    "value": "Montrouge",
+                    "state": "92"
+                },
+                {
+                    "value": "Nanterre",
+                    "state": "92"
+                },
+                {
+                    "value": "Neuilly-sur-Seine",
+                    "state": "92"
+                },
+                {
+                    "value": "Puteaux",
+                    "state": "92"
+                },
+                {
+                    "value": "Rueil-Malmaison",
+                    "state": "92"
+                },
+                {
+                    "value": "Suresnes",
+                    "state": "92"
+                },
+                {
+                    "value": "Aubervilliers",
+                    "state": "93"
+                },
+                {
+                    "value": "Aulnay-sous-Bois",
+                    "state": "93"
+                },
+                {
+                    "value": "Bobigny",
+                    "state": "93"
+                },
+                {
+                    "value": "Bondy",
+                    "state": "93"
+                },
+                {
+                    "value": "Drancy",
+                    "state": "93"
+                },
+                {
+                    "value": "Épinay-sur-Seine",
+                    "state": "93"
+                },
+                {
+                    "value": "La Courneuve",
+                    "state": "93"
+                },
+                {
+                    "value": "Le Blanc-Mesnil",
+                    "state": "93"
+                },
+                {
+                    "value": "Livry-Gargan",
+                    "state": "93"
+                },
+                {
+                    "value": "Noisy-le-Grand",
+                    "state": "93"
+                },
+                {
+                    "value": "Noisy-le-Sec",
+                    "state": "93"
+                },
+                {
+                    "value": "Pantin",
+                    "state": "93"
+                },
+                {
+                    "value": "Rosny-sous-Bois",
+                    "state": "93"
+                },
+                {
+                    "value": "Saint-Denis",
+                    "state": "93"
+                },
+                {
+                    "value": "Saint-Ouen-sur-Seine",
+                    "state": "93"
+                },
+                {
+                    "value": "Sevran",
+                    "state": "93"
+                },
+                {
+                    "value": "Alfortville",
+                    "state": "94"
+                },
+                {
+                    "value": "Champigny-sur-Marne",
+                    "state": "94"
+                },
+                {
+                    "value": "Choisy-le-Roi",
+                    "state": "94"
+                },
+                {
+                    "value": "Créteil",
+                    "state": "94"
+                },
+                {
+                    "value": "Fontenay-sous-Bois",
+                    "state": "94"
+                },
+                {
+                    "value": "Ivry-sur-Seine",
+                    "state": "94"
+                },
+                {
+                    "value": "Maisons-Alfort",
+                    "state": "94"
+                },
+                {
+                    "value": "Saint-Maur-des-Fossés",
+                    "state": "94"
+                },
+                {
+                    "value": "Villejuif",
+                    "state": "94"
+                },
+                {
+                    "value": "Vincennes",
+                    "state": "94"
+                },
+                {
+                    "value": "Vitry-sur-Seine",
+                    "state": "94"
+                },
+                {
+                    "value": "Argenteuil",
+                    "state": "95"
+                },
+                {
+                    "value": "Cergy",
+                    "state": "95"
+                },
+                {
+                    "value": "Garges-lès-Gonesse",
+                    "state": "95"
+                },
+                {
+                    "value": "Sarcelles",
+                    "state": "95"
+                },
+                {
+                    "value": "Le Lamentin",
+                    "state": "97"
+                },
+                {
+                    "value": "Saint-André",
+                    "state": "97"
+                }
+            ]
+        },
+        {
+            "value": "US",
+            "name": "United States of America",
+            "cities": [
+                {
+                    "value": "Anchorage",
+                    "state": "AK"
+                },
+                {
+                    "value": "Birmingham",
+                    "state": "AL"
+                },
+                {
+                    "value": "Huntsville",
+                    "state": "AL"
+                },
+                {
+                    "value": "Mobile",
+                    "state": "AL"
+                },
+                {
+                    "value": "Montgomery",
+                    "state": "AL"
+                },
+                {
+                    "value": "Chandler",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Gilbert",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Glendale",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Mesa",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Peoria",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Phoenix",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Scottsdale",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Surprise",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Tempe",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Tucson",
+                    "state": "AZ"
+                },
+                {
+                    "value": "Anaheim",
+                    "state": "CA"
+                },
+                {
+                    "value": "Bakersfield",
+                    "state": "CA"
+                },
+                {
+                    "value": "Chula Vista",
+                    "state": "CA"
+                },
+                {
+                    "value": "Corona",
+                    "state": "CA"
+                },
+                {
+                    "value": "Elk Grove",
+                    "state": "CA"
+                },
+                {
+                    "value": "Escondido",
+                    "state": "CA"
+                },
+                {
+                    "value": "Fontana",
+                    "state": "CA"
+                },
+                {
+                    "value": "Fremont",
+                    "state": "CA"
+                },
+                {
+                    "value": "Fresno",
+                    "state": "CA"
+                },
+                {
+                    "value": "Fullerton",
+                    "state": "CA"
+                },
+                {
+                    "value": "Garden Grove",
+                    "state": "CA"
+                },
+                {
+                    "value": "Hayward",
+                    "state": "CA"
+                },
+                {
+                    "value": "Huntington Beach",
+                    "state": "CA"
+                },
+                {
+                    "value": "Irvine",
+                    "state": "CA"
+                },
+                {
+                    "value": "Lancaster",
+                    "state": "CA"
+                },
+                {
+                    "value": "Long Beach",
+                    "state": "CA"
+                },
+                {
+                    "value": "Los Angeles",
+                    "state": "CA"
+                },
+                {
+                    "value": "Modesto",
+                    "state": "CA"
+                },
+                {
+                    "value": "Moreno Valley",
+                    "state": "CA"
+                },
+                {
+                    "value": "Oakland",
+                    "state": "CA"
+                },
+                {
+                    "value": "Oceanside",
+                    "state": "CA"
+                },
+                {
+                    "value": "Ontario",
+                    "state": "CA"
+                },
+                {
+                    "value": "Orange",
+                    "state": "CA"
+                },
+                {
+                    "value": "Orange County",
+                    "state": "CA"
+                },
+                {
+                    "value": "Oxnard",
+                    "state": "CA"
+                },
+                {
+                    "value": "Palmdale",
+                    "state": "CA"
+                },
+                {
+                    "value": "Pomona",
+                    "state": "CA"
+                },
+                {
+                    "value": "Rancho Cucamonga",
+                    "state": "CA"
+                },
+                {
+                    "value": "Riverside",
+                    "state": "CA"
+                },
+                {
+                    "value": "Roseville",
+                    "state": "CA"
+                },
+                {
+                    "value": "Sacramento",
+                    "state": "CA"
+                },
+                {
+                    "value": "Salinas",
+                    "state": "CA"
+                },
+                {
+                    "value": "San Bernardino",
+                    "state": "CA"
+                },
+                {
+                    "value": "San Diego",
+                    "state": "CA"
+                },
+                {
+                    "value": "San Francisco",
+                    "state": "CA"
+                },
+                {
+                    "value": "San Jose",
+                    "state": "CA"
+                },
+                {
+                    "value": "Santa Ana",
+                    "state": "CA"
+                },
+                {
+                    "value": "Santa Clarita",
+                    "state": "CA"
+                },
+                {
+                    "value": "Santa Rosa",
+                    "state": "CA"
+                },
+                {
+                    "value": "Stockton",
+                    "state": "CA"
+                },
+                {
+                    "value": "Sunnyvale",
+                    "state": "CA"
+                },
+                {
+                    "value": "Torrance",
+                    "state": "CA"
+                },
+                {
+                    "value": "Aurora",
+                    "state": "CO"
+                },
+                {
+                    "value": "Colorado Springs",
+                    "state": "CO"
+                },
+                {
+                    "value": "Denver",
+                    "state": "CO"
+                },
+                {
+                    "value": "Fort Collins",
+                    "state": "CO"
+                },
+                {
+                    "value": "Lakewood",
+                    "state": "CO"
+                },
+                {
+                    "value": "Thornton",
+                    "state": "CO"
+                },
+                {
+                    "value": "Bridgeport",
+                    "state": "CT"
+                },
+                {
+                    "value": "Hartford",
+                    "state": "CT"
+                },
+                {
+                    "value": "Washington",
+                    "state": "DC"
+                },
+                {
+                    "value": "Cape Coral",
+                    "state": "FL"
+                },
+                {
+                    "value": "Fort Lauderdale",
+                    "state": "FL"
+                },
+                {
+                    "value": "Fort Myers",
+                    "state": "FL"
+                },
+                {
+                    "value": "Gainesville",
+                    "state": "FL"
+                },
+                {
+                    "value": "Hialeah",
+                    "state": "FL"
+                },
+                {
+                    "value": "Hollywood",
+                    "state": "FL"
+                },
+                {
+                    "value": "Jacksonville",
+                    "state": "FL"
+                },
+                {
+                    "value": "Miami",
+                    "state": "FL"
+                },
+                {
+                    "value": "Miramar",
+                    "state": "FL"
+                },
+                {
+                    "value": "Orlando",
+                    "state": "FL"
+                },
+                {
+                    "value": "Pembroke Pines",
+                    "state": "FL"
+                },
+                {
+                    "value": "Port St. Lucie",
+                    "state": "FL"
+                },
+                {
+                    "value": "St. Petersburg",
+                    "state": "FL"
+                },
+                {
+                    "value": "Tallahassee",
+                    "state": "FL"
+                },
+                {
+                    "value": "Tampa",
+                    "state": "FL"
+                },
+                {
+                    "value": "West Palm Beach",
+                    "state": "FL"
+                },
+                {
+                    "value": "Atlanta",
+                    "state": "GA"
+                },
+                {
+                    "value": "Augusta",
+                    "state": "GA"
+                },
+                {
+                    "value": "Macon Bibb County",
+                    "state": "GA"
+                },
+                {
+                    "value": "Savannah",
+                    "state": "GA"
+                },
+                {
+                    "value": "Honolulu",
+                    "state": "HI"
+                },
+                {
+                    "value": "Des Moines",
+                    "state": "IA"
+                },
+                {
+                    "value": "Boise",
+                    "state": "ID"
+                },
+                {
+                    "value": "Chicago",
+                    "state": "IL"
+                },
+                {
+                    "value": "Joliet",
+                    "state": "IL"
+                },
+                {
+                    "value": "Naperville",
+                    "state": "IL"
+                },
+                {
+                    "value": "Rockford",
+                    "state": "IL"
+                },
+                {
+                    "value": "Fort Wayne",
+                    "state": "IN"
+                },
+                {
+                    "value": "Indianapolis",
+                    "state": "IN"
+                },
+                {
+                    "value": "Little Rock",
+                    "state": "KS"
+                },
+                {
+                    "value": "Olathe",
+                    "state": "KS"
+                },
+                {
+                    "value": "Overland Park",
+                    "state": "KS"
+                },
+                {
+                    "value": "Wichita",
+                    "state": "KS"
+                },
+                {
+                    "value": "Lexington",
+                    "state": "KY"
+                },
+                {
+                    "value": "Louisville",
+                    "state": "KY"
+                },
+                {
+                    "value": "Baton Rouge",
+                    "state": "LA"
+                },
+                {
+                    "value": "New Orleans",
+                    "state": "LA"
+                },
+                {
+                    "value": "Shreveport",
+                    "state": "LA"
+                },
+                {
+                    "value": "Boston",
+                    "state": "MA"
+                },
+                {
+                    "value": "Worcester",
+                    "state": "MA"
+                },
+                {
+                    "value": "Baltimore",
+                    "state": "MD"
+                },
+                {
+                    "value": "Detroit",
+                    "state": "MI"
+                },
+                {
+                    "value": "Grand Rapids",
+                    "state": "MI"
+                },
+                {
+                    "value": "Sterling Heights",
+                    "state": "MI"
+                },
+                {
+                    "value": "Warren",
+                    "state": "MI"
+                },
+                {
+                    "value": "Minneapolis",
+                    "state": "MN"
+                },
+                {
+                    "value": "St. Paul",
+                    "state": "MN"
+                },
+                {
+                    "value": "Kansas City",
+                    "state": "MO"
+                },
+                {
+                    "value": "Springfield",
+                    "state": "MO"
+                },
+                {
+                    "value": "St. Louis",
+                    "state": "MO"
+                },
+                {
+                    "value": "Jackson",
+                    "state": "MS"
+                },
+                {
+                    "value": "Cary",
+                    "state": "NC"
+                },
+                {
+                    "value": "Charlotte",
+                    "state": "NC"
+                },
+                {
+                    "value": "Durham",
+                    "state": "NC"
+                },
+                {
+                    "value": "Fayetteville",
+                    "state": "NC"
+                },
+                {
+                    "value": "Greensboro",
+                    "state": "NC"
+                },
+                {
+                    "value": "Raleigh",
+                    "state": "NC"
+                },
+                {
+                    "value": "Winston Salem",
+                    "state": "NC"
+                },
+                {
+                    "value": "Lincoln",
+                    "state": "NE"
+                },
+                {
+                    "value": "Omaha",
+                    "state": "NE"
+                },
+                {
+                    "value": "Jersey City",
+                    "state": "NJ"
+                },
+                {
+                    "value": "Newark",
+                    "state": "NJ"
+                },
+                {
+                    "value": "Paterson",
+                    "state": "NJ"
+                },
+                {
+                    "value": "Albuquerque",
+                    "state": "NM"
+                },
+                {
+                    "value": "Henderson",
+                    "state": "NV"
+                },
+                {
+                    "value": "Las Vegas",
+                    "state": "NV"
+                },
+                {
+                    "value": "North Las Vegas",
+                    "state": "NV"
+                },
+                {
+                    "value": "Reno",
+                    "state": "NV"
+                },
+                {
+                    "value": "Buffalo",
+                    "state": "NY"
+                },
+                {
+                    "value": "New York City",
+                    "state": "NY"
+                },
+                {
+                    "value": "Rochester",
+                    "state": "NY"
+                },
+                {
+                    "value": "Syracuse",
+                    "state": "NY"
+                },
+                {
+                    "value": "Yonkers",
+                    "state": "NY"
+                },
+                {
+                    "value": "Akron",
+                    "state": "OH"
+                },
+                {
+                    "value": "Cincinnati",
+                    "state": "OH"
+                },
+                {
+                    "value": "Cleveland",
+                    "state": "OH"
+                },
+                {
+                    "value": "Columbus",
+                    "state": "OH"
+                },
+                {
+                    "value": "Dayton",
+                    "state": "OH"
+                },
+                {
+                    "value": "Toledo",
+                    "state": "OH"
+                },
+                {
+                    "value": "Oklahoma City",
+                    "state": "OK"
+                },
+                {
+                    "value": "Tulsa",
+                    "state": "OK"
+                },
+                {
+                    "value": "Eugene",
+                    "state": "OR"
+                },
+                {
+                    "value": "Portland",
+                    "state": "OR"
+                },
+                {
+                    "value": "Salem",
+                    "state": "OR"
+                },
+                {
+                    "value": "Philadelphia",
+                    "state": "PA"
+                },
+                {
+                    "value": "Pittsburgh",
+                    "state": "PA"
+                },
+                {
+                    "value": "Providence",
+                    "state": "RI"
+                },
+                {
+                    "value": "Charleston",
+                    "state": "SC"
+                },
+                {
+                    "value": "Columbia",
+                    "state": "SC"
+                },
+                {
+                    "value": "Sioux Falls",
+                    "state": "SD"
+                },
+                {
+                    "value": "Chattanooga",
+                    "state": "TN"
+                },
+                {
+                    "value": "Clarksville",
+                    "state": "TN"
+                },
+                {
+                    "value": "Knoxville",
+                    "state": "TN"
+                },
+                {
+                    "value": "Memphis",
+                    "state": "TN"
+                },
+                {
+                    "value": "Murfreesboro",
+                    "state": "TN"
+                },
+                {
+                    "value": "Nashville",
+                    "state": "TN"
+                },
+                {
+                    "value": "Amarillo",
+                    "state": "TX"
+                },
+                {
+                    "value": "Arlington",
+                    "state": "TX"
+                },
+                {
+                    "value": "Austin",
+                    "state": "TX"
+                },
+                {
+                    "value": "Brownsville",
+                    "state": "TX"
+                },
+                {
+                    "value": "Carrollton",
+                    "state": "TX"
+                },
+                {
+                    "value": "Corpus Christi",
+                    "state": "TX"
+                },
+                {
+                    "value": "Dallas",
+                    "state": "TX"
+                },
+                {
+                    "value": "Denton",
+                    "state": "TX"
+                },
+                {
+                    "value": "El Paso",
+                    "state": "TX"
+                },
+                {
+                    "value": "Fort Worth",
+                    "state": "TX"
+                },
+                {
+                    "value": "Frisco",
+                    "state": "TX"
+                },
+                {
+                    "value": "Garland",
+                    "state": "TX"
+                },
+                {
+                    "value": "Grand Prairie",
+                    "state": "TX"
+                },
+                {
+                    "value": "Houston",
+                    "state": "TX"
+                },
+                {
+                    "value": "Irving",
+                    "state": "TX"
+                },
+                {
+                    "value": "Killeen",
+                    "state": "TX"
+                },
+                {
+                    "value": "Laredo",
+                    "state": "TX"
+                },
+                {
+                    "value": "Lubbock",
+                    "state": "TX"
+                },
+                {
+                    "value": "Mcallen",
+                    "state": "TX"
+                },
+                {
+                    "value": "Mckinney",
+                    "state": "TX"
+                },
+                {
+                    "value": "Mesquite",
+                    "state": "TX"
+                },
+                {
+                    "value": "Midland",
+                    "state": "TX"
+                },
+                {
+                    "value": "Pasadena",
+                    "state": "TX"
+                },
+                {
+                    "value": "Plano",
+                    "state": "TX"
+                },
+                {
+                    "value": "San Antonio",
+                    "state": "TX"
+                },
+                {
+                    "value": "Waco",
+                    "state": "TX"
+                },
+                {
+                    "value": "Salt Lake City",
+                    "state": "UT"
+                },
+                {
+                    "value": "West Valley City",
+                    "state": "UT"
+                },
+                {
+                    "value": "Alexandria",
+                    "state": "VA"
+                },
+                {
+                    "value": "Chesapeake",
+                    "state": "VA"
+                },
+                {
+                    "value": "Hamn",
+                    "state": "VA"
+                },
+                {
+                    "value": "Newport News",
+                    "state": "VA"
+                },
+                {
+                    "value": "Norfolk",
+                    "state": "VA"
+                },
+                {
+                    "value": "Richmond",
+                    "state": "VA"
+                },
+                {
+                    "value": "Virginia Beach",
+                    "state": "VA"
+                },
+                {
+                    "value": "Bellevue",
+                    "state": "WA"
+                },
+                {
+                    "value": "Seattle",
+                    "state": "WA"
+                },
+                {
+                    "value": "Spokane",
+                    "state": "WA"
+                },
+                {
+                    "value": "Tacoma",
+                    "state": "WA"
+                },
+                {
+                    "value": "Vancouver",
+                    "state": "WA"
+                },
+                {
+                    "value": "Madison",
+                    "state": "WI"
+                },
+                {
+                    "value": "Milwaukee",
+                    "state": "WI"
+                }
+            ]
+        }
+    ]
+}
